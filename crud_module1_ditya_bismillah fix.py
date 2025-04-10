@@ -381,11 +381,10 @@ def hapus_kecelakaan():
                 print("Tidak ada data yang bisa direstore.")
 
         elif pilihan == "5":
-            print("Kembali ke menu utama...\n")
             break
 
         else:
-            print("Pilihan tidak valid. Silakan pilih antara 1 sampai 5.")
+            print("Pilihan tidak valid. Coba lagi")
 
 
 # Menjalankan program
