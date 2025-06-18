@@ -28,14 +28,13 @@ Ini adalah program Python sederhana untuk mencatat dan mengelola **data kecelaka
  - **Read**: Menampilkan data laporan kecelakaan.
    ![image](https://github.com/user-attachments/assets/0507b48c-16ef-4c40-a2d7-a9b88b6f2a91)
    Tampilan seluruh data kecelakaan PT Jaya Makmur seperti berikut:
-   ![image](https://github.com/user-attachments/assets/1ae68b68-cfe0-4e1b-abca-33dadc50f27e)
-
+   ![image](https://github.com/user-attachments/assets/c3a1351d-92cd-4c3a-bd35-f88a1cc46cf8)
  - **Create**: Menambah data laporan baru ke dalam sistem
    ![image](https://github.com/user-attachments/assets/be6477c6-6395-475a-81c6-dae34c8462fe)
  - **Update**: Memperbarui data laporan kcelakaan yang sudah ada dengan memasukkan ID pekerja terlebih dahulu
    ![image](https://github.com/user-attachments/assets/2870a450-9af4-48fe-bf62-b584995eae5e)
    Data yang dapat diubah diantaranya:
-   ![image](https://github.com/user-attachments/assets/29e90208-1587-47e4-a4ec-270586e4cab5)
+   ![image](https://github.com/user-attachments/assets/9bb6f733-98d7-4a2e-909e-d0b9b9f29264)
  - **Delete**: Menghapus data laporan kecelakaan secara keseluruhan atau berdasarkan ID pekerja
    ![image](https://github.com/user-attachments/assets/514264b7-4d89-440a-9582-25f8b92635b1)
  - **Restore**: Mengembalikan data yang telah terhapus
