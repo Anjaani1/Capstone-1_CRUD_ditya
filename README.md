@@ -48,10 +48,6 @@ Ini adalah program Python sederhana untuk mencatat dan mengelola **data kecelaka
 ### 🧑‍💻 Credits
 Dibuat oleh: Ditya Ayu Anjani
 
-Mini Project: Modul CRUD Python
-
-Tahun: 2025
-
 
 
 
